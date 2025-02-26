@@ -1,2 +1,2 @@
-# astraclient
-A Version of Astra Client not blocked by schools and playable in the browser!
+# eaglercraft.cheeter.de
+A Version of Eaglercraft not blocked by schools and playable in the browser!
